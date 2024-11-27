@@ -2,6 +2,7 @@
 
 nome da equipe:
 João Luiz Silva - ADS
+André Queiroz Rocha - Engenharia da Computação
 
 Este projeto é uma API para gerenciamento de uma biblioteca, onde usuários podem cadastrar livros, autores e categorias, além de realizar buscas e gerenciar dados. A API possui autenticação baseada em JWT para segurança e controle de permissões.
 
